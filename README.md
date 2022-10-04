@@ -43,6 +43,7 @@ I am <b>Rayaq Siddiqui</b> and here is a little bit about myself
 
 - Artificial Intelligence Developer @ Watolink
 - Full Stack Developer @ Royal Bank of Canada (RBC)
+- Computer Vision Developer @ UW Aerial Robotics Group
 - Software Engineer @ Polar/Nova
 
 
