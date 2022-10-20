@@ -23,7 +23,7 @@ I am <b>Rayaq Siddiqui</b> and here is a little bit about myself
 
 <pre>
 📚 I am a third year Bachelors of Software Engineering Student from the University of Waterloo
-💻 I am a Machine Learning Developer (Python, Tensorflow, PyToch, OpenCV)
+💻 I am a Machine Learning Developer (Python, Tensorflow, PyTorch, OpenCV)
 📝 I am experienced in Full Stack Development (JavaScript, Django, MERN Stack, HTML/CSS)
 🌱 I am continually learning about Data Science, Computer Vision, NLP & advanced ML techniques
 🌟 I am profecient in the following languages: Python, C++, JavaScript
