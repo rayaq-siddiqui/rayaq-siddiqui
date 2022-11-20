@@ -29,18 +29,16 @@ I am <b>Rayaq Siddiqui</b> and here is a little bit about myself
 
 ### 👨‍💻 Currently, I am
 
-- Machine Learning Developer @ BlackBerry
-<!--
+- Machine Learning Developer Intern @ BlackBerry
 - Technical Project Manager @ Wat.AI
-- Research Team for ProjectX @ University of Waterloo
--->
+- Research @ ProjectX (affiliated with University of Waterloo)
 
 ### 💻 Previously, I have
 
-- Artificial Intelligence Developer @ Watolink
+- Machine Learning Developer @ Watolink
 - Full Stack Developer @ Royal Bank of Canada (RBC)
 - Computer Vision Developer @ UW Aerial Robotics Group
-- Software Engineer @ Polar/Nova
+- Software Engineer Intern @ Polar/Nova
 
 
 ## Projects
