@@ -29,12 +29,13 @@ I am <b>Rayaq Siddiqui</b> and here is a little bit about myself
 
 ### 👨‍💻 Currently, I am
 
-- Machine Learning Developer Intern @ BlackBerry
-- Technical Project Manager @ Wat.AI
-- Research @ ProjectX (affiliated with University of Waterloo)
+- Machine Learning Developer Intern @ [IBM](https://github.com/IBM)
 
 ### 💻 Previously, I have
 
+- Machine Learning Developer Intern @ BlackBerry
+- Technical Project Manager @ Wat.AI
+- Research @ ProjectX (affiliated with University of Waterloo)
 - Machine Learning Developer @ Watolink
 - Full Stack Developer @ Royal Bank of Canada (RBC)
 - Computer Vision Developer @ UW Aerial Robotics Group
