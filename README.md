@@ -15,7 +15,9 @@ Hi!
   </a>
 </h1>
 
-I am <b>Rayaq Siddiqui</b>. I am in my final year of Software Engineering at the University of Waterloo. I have experience as a Machine Learning Developer, both in Computer Vision and Natural Language Processing. I also have experiences in Machine Learning Compilers and general Software Engineering. I love programming, mathematics, and data science. I am proficient in Python, C++, C, and Java.
+I am <b>Rayaq Siddiqui</b>. I am in my final year of Software Engineering at the University of Waterloo. I have experience as a Machine Learning Developer, both in Computer Vision and Natural Language Processing. I also have experiences in Machine Learning Compilers and general Software Engineering. 
+
+I love programming and mathematics.
 
 ## What am I doing?
 
@@ -35,7 +37,6 @@ I am <b>Rayaq Siddiqui</b>. I am in my final year of Software Engineering at the
 - Technical Project Manager @ Wat.AI
 - Research @ ProjectX (affiliated with University of Waterloo)
 - Software Engineer Intern @ Polar/Nova
-
 
 ## Projects
 
