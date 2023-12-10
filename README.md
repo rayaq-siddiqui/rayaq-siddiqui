@@ -1,5 +1,5 @@
 <h1>
-Hey!
+Hi!
   <a href="https://github.com/rayaq-siddiqui" target="_self">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   </a>
@@ -15,30 +15,25 @@ Hey!
   </a>
 </h1>
 
-I am <b>Rayaq Siddiqui</b> and here is a little bit about myself
-
-<pre>
-📚 I am a third year Software Engineering Student at the University of Waterloo
-💻 I am a Machine Learning Developer (Python, Tensorflow, PyTorch, OpenCV)
-📝 I am experienced in Full Stack Development (JavaScript, Django, MERN Stack, HTML/CSS)
-🌱 I am continually learning about Data Science, Computer Vision, NLP & advanced ML techniques
-🌟 I am proficient in the following languages: Python, C++, JavaScript, Java
-</pre>
+I am <b>Rayaq Siddiqui</b>. I am in my final year of Software Engineering at the University of Waterloo. I have experience as a Machine Learning Developer, both in Computer Vision and Natural Language Processing. I also have experiences in Machine Learning Compilers and general Software Engineering. I love programming, mathematics, and data science. I am proficient in Python, C++, C, and Java.
 
 ## What am I doing?
 
 ### 👨‍💻 Currently, I am
 
+- Machine Learning Compilers Intern @ [d-Matrix](https://www.d-matrix.ai/)
+
+### 💻 Recently, I have
+
 - Machine Learning Developer Intern @ [IBM](https://github.com/IBM)
+- Machine Learning Developer Intern @ [BlackBerry](https://www.blackberry.com/us/en)
+- Machine Learning Developer @ Watolink
+- Software Engineering Intern @ Royal Bank of Canada (RBC)
 
-### 💻 Previously, I have
+### 🖥️ Previously, I have
 
-- Machine Learning Developer Intern @ BlackBerry
 - Technical Project Manager @ Wat.AI
 - Research @ ProjectX (affiliated with University of Waterloo)
-- Machine Learning Developer @ Watolink
-- Full Stack Developer @ Royal Bank of Canada (RBC)
-- Computer Vision Developer @ UW Aerial Robotics Group
 - Software Engineer Intern @ Polar/Nova
 
 
