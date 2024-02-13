@@ -23,7 +23,8 @@ I love programming and mathematics.
 
 ### 👨‍💻 Currently, I am
 
-- Machine Learning Compilers Intern @ [d-Matrix](https://www.d-matrix.ai/)
+- Machine Learning Compiler Intern @ [d-Matrix](https://www.d-matrix.ai/)
+- Incoming Software Engineering Intern @ [Google](https://github.com/google)
 
 ### 💻 Recently, I have
 
