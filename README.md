@@ -5,7 +5,7 @@ Hi!
   </a>
   <br/>
   <a href="mailto:rayaq.siddiqui@uwaterloo.ca">
-    <img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Mail"/>
   </a>
   <a href="https://www.linkedin.com/in/rayaq-siddiqui/">
     <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -23,11 +23,11 @@ I love programming and mathematics.
 
 ### 👨‍💻 Currently, I am
 
-- Machine Learning Compiler Intern @ [d-Matrix](https://www.d-matrix.ai/)
-- Incoming Software Engineering Intern @ [Google](https://github.com/google)
+- Software Engineering Intern @ [Google](https://github.com/google)
 
 ### 💻 Recently, I have
 
+- Machine Learning Compiler Intern @ [d-Matrix](https://www.d-matrix.ai/)
 - Machine Learning Developer Intern @ [IBM](https://github.com/IBM)
 - Machine Learning Developer Intern @ [BlackBerry](https://www.blackberry.com/us/en)
 - Machine Learning Developer @ Watolink
