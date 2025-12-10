@@ -15,7 +15,7 @@ Hi!
   </a>
 </h1>
 
-I am <b>Rayaq Siddiqui</b>. I am in my final year of Software Engineering at the University of Waterloo. I have experience as a Machine Learning Developer, both in Computer Vision and Natural Language Processing. I also have experiences in Machine Learning Compilers and general Software Engineering. 
+I am <b>Rayaq Siddiqui</b>. I am a Software Engineer at Google and alum of the Software Engineering program at the University of Waterloo. My experience spans compilers and low-level systems, machine learning training, optimization and deployment, and large-scale build and version control infrastructure.
 
 I love programming and mathematics.
 
@@ -23,18 +23,20 @@ I love programming and mathematics.
 
 ### 👨‍💻 Currently, I am
 
-- Software Engineering Intern @ [Google](https://github.com/google)
+- Software Engineering @ [Google](https://github.com/google)
 
 ### 💻 Recently, I have
 
+- Software Engineering Intern @ [Google](https://github.com/google)
 - Machine Learning Compiler Intern @ [d-Matrix](https://www.d-matrix.ai/)
 - Machine Learning Developer Intern @ [IBM](https://github.com/IBM)
 - Machine Learning Developer Intern @ [BlackBerry](https://www.blackberry.com/us/en)
-- Machine Learning Developer @ Watolink
-- Software Engineering Intern @ Royal Bank of Canada (RBC)
+
 
 ### 🖥️ Previously, I have
 
+- Machine Learning Developer @ Watolink
+- Software Engineering Intern @ Royal Bank of Canada (RBC)
 - Technical Project Manager @ Wat.AI
 - Research @ ProjectX (affiliated with University of Waterloo)
 - Software Engineer Intern @ Polar/Nova
